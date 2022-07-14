@@ -1,0 +1,17 @@
+#darkbody {
+    background-color: #121212;
+}
+body {
+    background-color: #121212;
+    border-color: #222222;
+    border-radius: 2px;
+    border-width: 20px;
+    border-style: outset;
+}
+.noborder {
+    border:none;
+}
+
+* {
+    color:whitesmoke;
+}
